@@ -1,2 +1,2 @@
-# DBMS-Project
+# Flight Booking System
  
